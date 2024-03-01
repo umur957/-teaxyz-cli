@@ -1,1 +1,7 @@
 # -teaxyz-cli
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xdaE48DCfEEa59CfbCB1ca62F14DCF206B0b4743a'
+quorum: 1
